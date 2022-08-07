@@ -1,3 +1,7 @@
 # [clumsycomputer.com](https://clumsycomputer.com)
 
-[music bookmarks](https://www.youtube.com/watch?v=MihbEduCmBU&list=PLP7qiRflB78RVZXoXKYh3-kTpfRF9zvXg)
+### [software](https://clumsycomputer.com/software)
+
+### [graphics](https://clumsycomputer.com/graphics)
+
+### [resume](https://clumsycomputer.com/resume)
