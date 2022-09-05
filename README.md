@@ -1,9 +1,9 @@
 # [clumsycomputer.com](https://clumsycomputer.com)
 
-### [software](https://clumsycomputer.com/software)
+### [packages](https://clumsycomputer.com/software/packages)
 
-### [resume](https://clumsycomputer.com/resume)
+### [resume](https://clumsycomputer.com/software/resume)
 
-### [graphics](https://clumsycomputer.com/graphics)
+### [graphics](https://clumsycomputer.com/art/graphics)
 
 ### [- music +](https://clumsycomputer.com/curations/music)
